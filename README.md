@@ -6,6 +6,8 @@
   <img src= "https://raw.githubusercontent.com/moezdurrani/Autonomous-Car/main/Car04.jpg" width="300"/>
   <img src="https://github.com/moezdurrani/Autonomous-Car/blob/main/Car02.jpg" width="300"/>
    <img src="https://github.com/moezdurrani/Autonomous-Car/blob/main/Car03.jpg" width="300"/>
+
+  ![bounce_game_gif](https://github.com/moezdurrani/Autonomous-Car/blob/main/Car%20Video.gif)
 </p>
 <p float="left">
  
