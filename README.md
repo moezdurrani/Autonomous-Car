@@ -4,7 +4,7 @@
   <a href="https://moezdurrani.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=github" alt="Portfolio">
   </a>
-  <br>
+  <br><br>
 
 
 <p float="left">
